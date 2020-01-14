@@ -1,9 +1,6 @@
 <?php
 
-<<<<<<< HEAD
-echo "Hello World - Removed";
-=======
 echo "Hello World";
 echo "Hasni Tambah Sini"
 echo "Mari kita cuba"
->>>>>>> d8beacb31357908074b9abc9a00d87bfe0742112
+atom://teletype/portal/67ce3a1e-e047-456f-9c18-d597b5574c4b
